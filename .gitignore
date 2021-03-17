@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Git Game/Library/
+*.asset
+*.tmp
+*.userprefs
+Git Game/Temp/
+*.asset
+*.tmp
